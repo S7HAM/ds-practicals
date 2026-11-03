@@ -116,3 +116,14 @@ while True:
 
     else:
         print("Invalid choice! Please try again.")
+
+
+
+
+1. Start.
+2. Create an empty list to store the number of books borrowed by members.
+3. Accept the user's choice from the menu and add or display member records.
+4. Calculate the average, highest and lowest number of borrowings.
+5. Count members with zero borrowings and find the most frequently occurring value (mode).
+6. Repeat the operations until the user selects Exit.
+7. Stop.
