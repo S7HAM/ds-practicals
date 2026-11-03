@@ -153,3 +153,13 @@ while True:
     else:
 
         print("Invalid Choice")
+
+
+
+1. Start.
+2. Create a directory with two buckets and set global depth to 1.
+3. Calculate the directory index for the given key.
+4. Insert the key-value pair into the bucket.
+5. Split a full bucket and double the directory if required.
+6. Search and delete key-value pairs.
+7. Repeat until Exit is selected and stop.
