@@ -97,3 +97,13 @@ while True:
     else:
 
         print("Invalid Choice")
+
+
+
+1. Start.
+2. Create a hash table of size 10.
+3. Calculate the index using key % 10.
+4. Insert keys using linear probing to handle collisions.
+5. Search and delete the required key.
+6. Display the hash table and repeat until Exit.
+7. Stop.
