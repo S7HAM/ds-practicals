@@ -69,3 +69,14 @@ while True:
     else:
 
         print("Invalid choice! Please try again.")
+
+
+
+
+1. Start.
+2. Create an empty queue for events.
+3. Add new events at the end of the queue.
+4. Process events by removing the first event.
+5. Display or cancel pending events.
+6. Repeat until Exit is selected.
+7. Stop.
