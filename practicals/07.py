@@ -203,3 +203,13 @@ while True:
 
     else:
         print("Invalid Choice.")
+
+
+
+1. Start.
+2. Create a Node class and initialize head as None.
+3. Add and display student records.
+4. Search, update and delete records using roll number.
+5. Sort records by roll number or marks.
+6. Repeat until Exit is selected.
+7. Stop.
