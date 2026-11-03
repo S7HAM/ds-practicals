@@ -65,3 +65,13 @@ while True:
 
     else:
         print("Invalid choice! Please try again.")
+
+
+
+1. Start.
+2. Create a document, undo stack and redo stack.
+3. Store the previous document in the undo stack when changes are made.
+4. Perform Undo by restoring the previous document.
+5. Perform Redo by restoring the undone document.
+6. Display the document and repeat until Exit.
+7. Stop.
