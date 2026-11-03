@@ -120,3 +120,14 @@ while True:
 
     else:
         print("Invalid choice! Please try again.")
+
+
+
+
+1. Start.
+2. Create an empty list to store salaries.
+3. Accept and display employee salaries.
+4. Perform Selection Sort by finding the smallest element.
+5. Perform Bubble Sort by comparing and swapping adjacent elements.
+6. Display sorted salaries and the top five highest salaries.
+7. Stop.
