@@ -104,3 +104,15 @@ while True:
 
     else:
         print("Invalid choice! Please try again.")
+
+
+
+
+
+1. Start.
+2. Create an empty list to store account IDs.
+3. Accept and display account IDs.
+4. Perform Linear Search by comparing elements one by one.
+5. Perform Binary Search after sorting the list.
+6. Repeat until Exit is selected.
+7. Stop.
