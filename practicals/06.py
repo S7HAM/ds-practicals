@@ -74,3 +74,13 @@ while True:
     else:
 
         print("Invalid Choice")
+
+
+
+1. Start.
+2. Create two empty lists for customer IDs and call times.
+3. Add customer details to both lists.
+4. Answer a call by displaying and removing the first customer.
+5. Display pending calls and check whether the queue is empty.
+6. Repeat until Exit is selected.
+7. Stop.
